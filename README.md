@@ -1,8 +1,6 @@
 # License-plate-detection
 ## Automatic number-plate recognition
-![image](https://user-images.githubusercontent.com/63598964/118021359-c788a280-b378-11eb-968d-8276009e2187.png)
-
-
+![image](https://user-images.githubusercontent.com/63598964/118021602-0f0f2e80-b379-11eb-92b2-30f1000e7110.png)
 
 
 
