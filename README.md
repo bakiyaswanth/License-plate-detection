@@ -28,3 +28,4 @@ https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
 ## Made by:
 - [Baki Yaswanth Reddy](https://github.com/bakiyaswanth)
 - [Dommeti Gowtham ](https://github.com/2000-Gowtham-2000)
+- [Akash Baral](https://github.com/akashbaral1310)
