@@ -21,8 +21,8 @@ https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
 - [Easy ocr](https://pypi.org/project/easyocr/)
 - [Imutils](https://pypi.org/project/imutils/)
 ## steps to execute the code :
-- run  { pip3 install torch==1.8.1+cu102 torchvision==0.9.1+cu102 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html } in cmd(windows)
-- run the license plate.ipynb in Jupyter notebook.
+- Run  { pip3 install torch==1.8.1+cu102 torchvision==0.9.1+cu102 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html } in cmd(windows) to install PyTorch library.
+- Run the license plate.ipynb in Jupyter notebook.
 
 ### Please contribute in this project by providing more relevant images
 ## Thank You
