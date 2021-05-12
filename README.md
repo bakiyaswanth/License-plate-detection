@@ -26,3 +26,6 @@ https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
 
 ### Please contribute in this project by providing more relevant images
 ## Thank You
+## Made by:
+- [Baki Yaswanth Reddy](https://github.com/bakiyaswanth)
+- [Dommeti Gowtham ](https://github.com/2000-Gowtham-2000)
